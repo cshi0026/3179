@@ -1,0 +1,48 @@
+*
+{
+    box-sizing: border-box;
+}
+body
+{
+    margin: 0px; padding: 0px; background-color: #e8eaec; padding-top: 20px; font-size: 16px;
+}
+
+.section-container
+{
+    width: 1200px; background-color: #FFFFFF; margin: 0px auto 20px auto; padding: 20px; border-radius: 10px;
+}
+
+/* summary */
+
+.summary-title
+{
+    text-align: center; line-height: 80px; font-size: 36px; color: #20799D; font-weight: bold; margin-bottom: 10px;
+}
+.summary-content
+{
+    line-height: 30px;
+}
+
+/* section */
+
+.section-title
+{
+    font-size: 20px; font-weight: bold; color: #20799D; line-height: 24px; margin-bottom: 15px;
+}
+.section-content
+{
+    display: flex; justify-content: space-between; line-height: 30px;
+}
+.section-left
+{
+    width: 49%; flex-shrink: 0; flex-grow: 0; 
+}
+.section-right
+{
+    width: 49%; flex-shrink: 0; flex-grow: 0;
+}
+.vega-chart
+{
+    width: 100%; height: 260px; margin-bottom: 20px;
+}
+

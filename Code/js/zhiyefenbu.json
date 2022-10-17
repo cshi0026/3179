@@ -1,0 +1,34 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "A simple bar chart with embedded data.",
+  "width": "1100",
+  "data": {
+    "url": "../data/data1.csv"
+  },
+  "transform": [
+    {
+      "filter": "datum.age > 25"
+    }
+  ],
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "job",
+      "type": "nominal",
+      "sort": "-y"
+    },
+    "y": {
+      "aggregate": "count",
+      "field": "sex",
+      "type": "quantitative"
+    },
+    "color": {
+      "value": "#FF6F76"
+    },
+    "tooltip": {
+      "aggregate": "count",
+      "field": "sex",
+      "type": "quantitative"
+    }
+  }
+}

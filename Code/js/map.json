@@ -1,0 +1,56 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 1050,
+    "height": 400,
+    "projection": {
+        "type": "equalEarth"
+    },
+    "data": {
+        "url": "../data/ne_110m_admin_0_countries.topojson",
+        "format": {
+            "type": "topojson",
+            "feature": "ne_110m_admin_0_countries"
+        }
+    },
+    "transform": [
+        {
+            "lookup": "properties.NAME",
+            "from": {
+                "data": {
+                    "url": "../data/data5.csv"
+                },
+                "key": "Country",
+                "fields": [
+                    "year2022"
+                ]
+            }
+        },
+        {
+            "calculate": "datum.year2022 + 0.1",
+            "as": "year2022 Cases"
+        }
+    ],
+    "mark": {
+        "type": "geoshape"
+    },
+    "encoding": {
+        "color": {
+            "field": "year2022 Cases",
+            "type": "quantitative",
+            "scale": {
+                "type": "log"
+            }
+        },
+        "tooltip": [
+            {
+                "field": "properties.NAME",
+                "type": "nominal",
+                "title": "Country"
+            },
+            {
+                "field": "year2022",
+                "type": "quantitative"
+            }
+        ]
+    }
+}

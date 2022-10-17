@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vega Chart</title>
+    <script src="./vega/vega@5.20.2"></script>
+    <script src="./vega/vega-lite@5.1.0"></script>
+    <script src="./vega/vega-embed@6.17.0"></script>
+    <link rel="stylesheet" href="./css/style.css" />
+</head>
+
+<body>
+    <!-- summary -->
+    <div class="section-container">
+        <div class="summary-title">Online Dating Service</div>
+        <div class="summary-content">
+            The online dating servies' revenue is projected to reach $7.56bn US dollars in 2022, and dating apps has
+            gained a great number of users during the epidmic. Today, meeting online has became one of the most popular
+            way to met new people in worldwide. More importantly, the share of consumers that are willing to pay for
+            additional features has been increasing in the last years, what led to strong revenue growth rates for some
+            key players (e.g. Tinder, Bumble, Hinge)
+        </div>
+    </div>
+    <!-- Users Info -->
+    <div class="section-container">
+        <!-- title -->
+        <div class="section-title">Users' Information</div>
+        <!-- content -->
+        <div class="section-content">
+            <div class="section-left">
+                <!-- vega chart -->
+                <div class="vega-chart" id="chart-nannvfenbu"></div>
+            </div>
+            <div class="section-right">
+                <!-- vega chart -->
+                <div class="vega-chart" id="chart-nianlingfenbu"></div>
+            </div>
+        </div>
+        <!-- vega chart -->
+        <div class="vega-chart" id="chart-zhiyefenbu"></div>
+        <!-- content -->
+        <div class="section-content">
+            According to the charts above, we can see that: 
+            males account for a parger proportion among the users of online dating apps. 
+            young people（23-35） are the main force of online dating.
+             For the jobs of the users, most of people prefer not to tells others, or maybe their industries are not
+            included. Students are ranked at the second place, which shows teennagers are the main force of online
+            dating. 
+        </div>
+    </div>
+    <!-- Word Cloud -->
+    <div class="section-container">
+        <!-- title -->
+        <div class="section-title">Interests Distribution</div>
+        <!-- vega chart -->
+        <div class="vega-chart" id="chart-wenzidaxiao"></div>
+        <!-- content -->
+        <div class="section-content">
+            These are top selected interests that people choose to put on their profile, such as music, reading,
+            politics, singing, and photography, etc. So, if you want to stand out from so many people, maybe trying
+            something unique to make people have a deep impression of you.
+        </div>
+    </div>
+    <!-- match rate -->
+    <div class="section-container">
+        <!-- title -->
+        <div class="section-title">Match Rate</div>
+        <!-- vega chart -->
+        <div class="vega-chart" id="chart-sandiantu"></div>
+        <!-- content -->
+        <div class="section-content">
+            Most users' match rates are around 15% to 40%. * There is no reference value for the match percentages are 0% or 100% bucause those users almost did not use dating apps.
+        </div>
+    </div>
+    <!-- Purpose of Usage -->
+    <div class="section-container">
+        <!-- title -->
+        <div class="section-title">Purpose of Usage</div>
+        <!-- vega chart -->
+        <div class="vega-chart" id="chart-zhexiantu"></div>
+        <!-- content -->
+        <div class="section-content">
+            Casual - sex partner,
+            Matchmaking - serious relationship,
+            Online dating - flirt.
+        </div>
+    </div>
+    <!-- Map -->
+    <div class="section-container">
+        <!-- title -->
+        <div class="section-title">User Penetration Comparation (in percent)</div>
+        <!-- vega chart -->
+        <div class="vega-chart" id="chart-map"></div>
+    </div>
+</body>
+<script type="text/javascript">
+    var nannvbiliChart = "js/nannvbili.json";
+    var nianlingfenbuChart = "js/nianlingfenbu.json";
+    var zhiyefenbuChart = "js/zhiyefenbu.json";
+    var wenzidaxiaoChart = "js/wenzidaxiao.json";
+    var sandiantuChart = "js/sandiantu.json";
+    var zhexiantuChart = "js/zhexiantu.json";
+    var mapChart = "js/map.json";
+
+    vegaEmbed("#chart-nannvfenbu", nannvbiliChart, { "actions": false }).then(function (result) {
+        console.log("nannvbiliChart")
+        console.log(result)
+    }).catch(console.error);
+    vegaEmbed("#chart-nianlingfenbu", nianlingfenbuChart, { "actions": false }).then(function (result) {
+        console.log("nianlingfenbuChart")
+        console.log(result)
+    }).catch(console.error);
+    vegaEmbed("#chart-zhiyefenbu", zhiyefenbuChart, { "actions": false }).then(function (result) {
+        console.log("zhiyefenbuChart")
+        console.log(result)
+    }).catch(console.error);
+    vegaEmbed("#chart-wenzidaxiao", wenzidaxiaoChart, { "actions": false }).then(function (result) {
+        console.log("wenzidaxiaoChart")
+        console.log(result)
+    }).catch(console.error);
+    vegaEmbed("#chart-sandiantu", sandiantuChart, { "actions": false }).then(function (result) {
+        console.log("sandiantuChart")
+        console.log(result)
+    }).catch(console.error);
+    vegaEmbed("#chart-zhexiantu", zhexiantuChart, { "actions": false }).then(function (result) {
+        console.log("zhexiantuChart")
+        console.log(result)
+    }).catch(console.error);
+    vegaEmbed("#chart-map", mapChart, { "actions": false }).then(function (result) {
+        console.log("mapChart")
+        console.log(result)
+    }).catch(console.error);
+</script>
+
+</html>

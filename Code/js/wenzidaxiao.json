@@ -1,0 +1,144 @@
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "name": "wordcloud",
+  "width": 1100,
+  "height": 400,
+  "padding": 0,
+  "autosize": "none",
+  "signals": [
+    {
+      "name": "wordPadding", "value": 1,
+      "bind": {"input": "range", "min": 0, "max": 5, "step": 1}
+    },
+    {
+      "name": "fontSizeRange0", "value": 8,
+      "bind": {"input": "range", "min": 8, "max": 42, "step": 1}
+    },
+    {
+      "name": "fontSizeRange1", "value": 24,
+      "bind": {"input": "range", "min": 8, "max": 42, "step": 1}
+    },
+    {
+      "name": "rotate", "value": 45,
+      "bind": {"input": "select", "options": [0, 30, 45, 60, 90]}
+    }
+  ],
+  "data": [
+    {
+      "name": "table",
+      "url": "../data/wordcloud.json",
+      "transform": [
+        {
+          "type": "countpattern",
+          "field": "interests",
+          "case": "upper",
+          "pattern": "[\\w']{3,}"
+        },
+        {
+          "type": "formula",
+          "as": "rotate",
+          "expr": "[-rotate, 0, rotate][~~(random() * 3)]"
+        },
+        {
+          "type": "wordcloud",
+          "size": [
+            {
+              "signal": "width"
+            },
+            {
+              "signal": "height"
+            }
+          ],
+          "text": {
+            "field": "text"
+          },
+          "font": "Helvetica Neue, Arial",
+          "fontSize": {
+            "field": "count"
+          },
+          "fontWeight": {
+            "field": "weight"
+          },
+          "fontSizeRange": [
+            {
+              "signal": "fontSizeRange0"
+            },
+            {
+              "signal": "fontSizeRange1"
+            }
+          ],
+          "padding": {
+            "signal": "wordPadding"
+          },
+          "rotate": {
+            "field": "rotate"
+          }
+        }
+      ]
+    }
+  ],
+  "scales": [
+    {
+      "name": "color",
+      "type": "ordinal",
+      "range": [
+        "#d5a928",
+        "#652c90",
+        "#939597"
+      ]
+    }
+  ],
+  "marks": [
+    {
+      "type": "text",
+      "from": {
+        "data": "table"
+      },
+      "encode": {
+        "enter": {
+          "text": {
+            "field": "text"
+          },
+          "align": {
+            "value": "center"
+          },
+          "baseline": {
+            "value": "alphabetic"
+          },
+          "fill": {
+            "scale": "color",
+            "field": "text"
+          },
+          "font": {
+            "value": "Helvetica Neue, Arial"
+          },
+          "fontWeight": {
+            "field": "weight"
+          }
+        },
+        "update": {
+          "x": {
+            "field": "x"
+          },
+          "y": {
+            "field": "y"
+          },
+          "angle": {
+            "field": "angle"
+          },
+          "fontSize": {
+            "field": "fontSize"
+          },
+          "fillOpacity": {
+            "value": 1
+          }
+        },
+        "hover": {
+          "fillOpacity": {
+            "value": 0.5
+          }
+        }
+      }
+    }
+  ]
+}
