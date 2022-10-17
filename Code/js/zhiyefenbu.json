@@ -5,13 +5,27 @@
   "data": {
     "url": "../data/data1.csv"
   },
+  "transform": [
+    {
+      "filter": "datum.age > 25"
+    }
+  ],
   "mark": "bar",
   "encoding": {
     "x": {
       "field": "job",
-      "type": "nominal"
+      "type": "nominal",
+      "sort": "-y"
     },
     "y": {
+      "aggregate": "count",
+      "field": "sex",
+      "type": "quantitative"
+    },
+    "color": {
+      "value": "#FF6F76"
+    },
+    "tooltip": {
       "aggregate": "count",
       "field": "sex",
       "type": "quantitative"

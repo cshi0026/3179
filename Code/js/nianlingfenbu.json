@@ -13,9 +13,18 @@
         "base": 7
       },
       "field": "age",
-      "type": "ordinal"
+      "type": "ordinal",
+      "axis": {
+        "labelAngle": 0
+      }
     },
     "y": {
+      "aggregate": "count"
+    },
+    "color": {
+      "value": "#FF6F76"
+    },
+    "tooltip": {
       "aggregate": "count"
     }
   }

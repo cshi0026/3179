@@ -1,454 +1,454 @@
 ID,Segment Type,Segment Description,Answer,Count,Percentage,It became a Relationship,Value
-292881,Mobile,Mobile respondents,Yes,797,20.70%,Yes,20.7
-292883,Mobile,Mobile respondents,No,1969,51.10%,No,51.1
-292885,Mobile,Mobile respondents,I don't use Tinder,1090,28.30%,Yes,28.3
 292887,Web,Web-based respondents,Yes,0,0.00%,No,0
 292889,Web,Web-based respondents,No,0,0.00%,No,0
 292891,Web,Web-based respondents,I don't use Tinder,0,0.00%,No,0
-292893,Gender,Male respondents,Yes,472,21.30%,Yes,21.3
-292895,Gender,Male respondents,No,1172,52.80%,No,52.8
-292897,Gender,Male respondents,I don't use Tinder,574,25.90%,No,25.9
-292899,Gender,Female respondents,Yes,325,19.80%,No,19.8
-292901,Gender,Female respondents,No,797,48.70%,Yes,48.7
-292903,Gender,Female respondents,I don't use Tinder,516,31.50%,No,31.5
-292905,University,Chapman University,Yes,13,20.60%,No,20.6
-292907,University,Chapman University,No,31,49.20%,No,49.2
-292909,University,Chapman University,I don't use Tinder,19,30.20%,Yes,30.2
-292911,University,Cornell University,Yes,47,24.40%,No,24.4
-292913,University,Cornell University,No,95,49.20%,Yes,49.2
-292915,University,Cornell University,I don't use Tinder,51,26.40%,No,26.4
 292917,University,Duke University,Yes,0,0.00%,No,0
-292919,University,Duke University,No,2,66.70%,No,66.7
-292921,University,Duke University,I don't use Tinder,1,33.30%,Yes,33.3
-292923,University,George Washington University,Yes,1,25.00%,No,25
-292925,University,George Washington University,No,3,75.00%,No,75
 292927,University,George Washington University,I don't use Tinder,0,0.00%,No,0
-292929,University,Georgetown University,Yes,2,50.00%,Yes,50
-292931,University,Georgetown University,No,1,25.00%,No,25
-292933,University,Georgetown University,I don't use Tinder,1,25.00%,No,25
-292935,University,Harvard University,Yes,1,33.30%,No,33.3
-292937,University,Harvard University,No,2,66.70%,Yes,66.7
 292939,University,Harvard University,I don't use Tinder,0,0.00%,No,0
-292941,University,Indiana University,Yes,9,20.50%,Yes,20.5
-292943,University,Indiana University,No,30,68.20%,No,68.2
-292945,University,Indiana University,I don't use Tinder,5,11.40%,No,11.4
-292947,University,Johns Hopkins University,Yes,33,23.90%,No,23.9
-292949,University,Johns Hopkins University,No,76,55.10%,Yes,55.1
-292951,University,Johns Hopkins University,I don't use Tinder,29,21.00%,No,21
-292953,University,Northwestern University,Yes,31,25.80%,No,25.8
-292955,University,Northwestern University,No,65,54.20%,No,54.2
-292957,University,Northwestern University,I don't use Tinder,24,20.00%,Yes,20
-292959,University,Ohio State University,Yes,6,31.60%,No,31.6
-292961,University,Ohio State University,No,12,63.20%,No,63.2
-292963,University,Ohio State University,I don't use Tinder,1,5.30%,No,5.3
-292965,University,Princeton University,Yes,1,50.00%,Yes,50
-292967,University,Princeton University,No,1,50.00%,No,50
 292969,University,Princeton University,I don't use Tinder,0,0.00%,Yes,0
-292971,University,San Diego State University,Yes,5,19.20%,No,19.2
-292973,University,San Diego State University,No,15,57.70%,No,57.7
-292975,University,San Diego State University,I don't use Tinder,6,23.10%,No,23.1
 292977,University,Santa Clara University,Yes,0,0.00%,Yes,0
-292979,University,Santa Clara University,No,4,80.00%,No,80
-292981,University,Santa Clara University,I don't use Tinder,1,20.00%,No,20
-292983,University,Southern Methodist University,Yes,3,33.30%,No,33.3
-292985,University,Southern Methodist University,No,4,44.40%,Yes,44.4
-292987,University,Southern Methodist University,I don't use Tinder,2,22.20%,No,22.2
-292989,University,Stanford University,Yes,13,12.00%,No,12
-292991,University,Stanford University,No,58,53.70%,No,53.7
-292993,University,Stanford University,I don't use Tinder,37,34.30%,Yes,34.3
-292995,University,Tulane University,Yes,3,42.90%,No,42.9
-292997,University,Tulane University,No,3,42.90%,Yes,42.9
-292999,University,Tulane University,I don't use Tinder,1,14.30%,No,14.3
-293001,University,University of Pennsylvania,Yes,24,22.20%,No,22.2
-293003,University,University of Pennsylvania,No,60,55.60%,No,55.6
-293005,University,University of Pennsylvania,I don't use Tinder,24,22.20%,Yes,22.2
-293007,University,University of Wisconsin-Madison,Yes,34,27.00%,No,27
-293009,University,University of Wisconsin-Madison,No,71,56.30%,No,56.3
-293011,University,University of Wisconsin-Madison,I don't use Tinder,21,16.70%,No,16.7
-293013,University,University of Alabama,Yes,2,13.30%,Yes,13.3
-293015,University,University of Alabama,No,11,73.30%,No,73.3
-293017,University,University of Alabama,I don't use Tinder,2,13.30%,No,13.3
-293019,University,"University of California, Berkeley",Yes,25,27.50%,No,27.5
-293021,University,"University of California, Berkeley",No,47,51.60%,Yes,51.6
-293023,University,"University of California, Berkeley",I don't use Tinder,19,20.90%,No,20.9
-293025,University,"University of California, Davis",Yes,3,17.60%,Yes,17.6
-293027,University,"University of California, Davis",No,8,47.10%,No,47.1
-293029,University,"University of California, Davis",I don't use Tinder,6,35.30%,No,35.3
-293031,University,"University of California, Los Angeles",Yes,1,7.70%,No,7.7
-293033,University,"University of California, Los Angeles",No,7,53.80%,Yes,53.8
-293035,University,"University of California, Los Angeles",I don't use Tinder,5,38.50%,No,38.5
-293037,University,"University of California, Santa Barbara",Yes,24,32.00%,No,32
-293039,University,"University of California, Santa Barbara",No,34,45.30%,No,45.3
-293041,University,"University of California, Santa Barbara",I don't use Tinder,17,22.70%,Yes,22.7
-293043,University,University of Colorado Boulder,Yes,3,50.00%,No,50
-293045,University,University of Colorado Boulder,No,3,50.00%,No,50
 293047,University,University of Colorado Boulder,I don't use Tinder,0,0.00%,No,0
 293049,University,University of Miami,Yes,0,0.00%,Yes,0
 293051,University,University of Miami,No,0,0.00%,No,0
-293053,University,University of Miami,I don't use Tinder,1,100.00%,Yes,100
-293055,University,University of Michigan,Yes,14,16.30%,No,16.3
-293057,University,University of Michigan,No,49,57.00%,No,57
-293059,University,University of Michigan,I don't use Tinder,23,26.70%,No,26.7
-293061,University,University of Oregon,Yes,1,20.00%,Yes,20
-293063,University,University of Oregon,No,4,80.00%,No,80
 293065,University,University of Oregon,I don't use Tinder,0,0.00%,No,0
-293067,University,University of Southern California,Yes,1,10.00%,No,10
-293069,University,University of Southern California,No,7,70.00%,Yes,70
-293071,University,University of Southern California,I don't use Tinder,2,20.00%,No,20
-293073,University,University of Virginia,Yes,3,16.70%,No,16.7
-293075,University,University of Virginia,No,7,38.90%,No,38.9
-293077,University,University of Virginia,I don't use Tinder,8,44.40%,Yes,44.4
-293079,University,Vanderbilt University,Yes,23,23.50%,No,23.5
-293081,University,Vanderbilt University,No,63,64.30%,Yes,64.3
-293083,University,Vanderbilt University,I don't use Tinder,12,12.20%,No,12.2
 293085,University,Wesleyan University,Yes,0,0.00%,No,0
-293087,University,Wesleyan University,No,2,100.00%,No,100
 293089,University,Wesleyan University,I don't use Tinder,0,0.00%,Yes,0
-293091,University,University of Texas,Yes,12,16.40%,No,16.4
-293093,University,University of Texas,No,35,47.90%,No,47.9
-293095,University,University of Texas,I don't use Tinder,26,35.60%,No,35.6
-293097,University,"University of California, San Diego",Yes,1,100.00%,Yes,100
 293099,University,"University of California, San Diego",No,0,0.00%,No,0
 293101,University,"University of California, San Diego",I don't use Tinder,0,0.00%,No,0
 293103,University,Miami University (Ohio),Yes,0,0.00%,No,0
-293105,University,Miami University (Ohio),No,1,50.00%,Yes,50
-293107,University,Miami University (Ohio),I don't use Tinder,1,50.00%,No,50
 293109,University,University of Maine,Yes,0,0.00%,Yes,0
-293111,University,University of Maine,No,3,75.00%,No,75
-293113,University,University of Maine,I don't use Tinder,1,25.00%,No,25
-293115,University,Texas Tech University,Yes,3,23.10%,No,23.1
-293117,University,Texas Tech University,No,5,38.50%,Yes,38.5
-293119,University,Texas Tech University,I don't use Tinder,5,38.50%,No,38.5
-293121,University,University of North Carolina,Yes,1,8.30%,No,8.3
-293123,University,University of North Carolina,No,8,66.70%,No,66.7
-293125,University,University of North Carolina,I don't use Tinder,3,25.00%,Yes,25
-293127,University,University of Arkansas,Yes,12,18.20%,No,18.2
-293129,University,University of Arkansas,No,35,53.00%,No,53
-293131,University,University of Arkansas,I don't use Tinder,19,28.80%,No,28.8
-293133,University,University of Mississippi,Yes,2,66.70%,Yes,66.7
-293135,University,University of Mississippi,No,1,33.30%,No,33.3
 293137,University,University of Mississippi,I don't use Tinder,0,0.00%,Yes,0
-293139,University,Baylor University,Yes,2,28.60%,No,28.6
-293141,University,Baylor University,No,2,28.60%,No,28.6
-293143,University,Baylor University,I don't use Tinder,3,42.90%,No,42.9
-293145,University,Texas A&M University,Yes,13,24.10%,Yes,24.1
-293147,University,Texas A&M University,No,29,53.70%,No,53.7
-293149,University,Texas A&M University,I don't use Tinder,12,22.20%,No,22.2
 293151,University,University of Oklahoma,Yes,0,0.00%,No,0
-293153,University,University of Oklahoma,No,4,80.00%,Yes,80
-293155,University,University of Oklahoma,I don't use Tinder,1,20.00%,No,20
-293157,University,Yale University,Yes,1,100.00%,No,100
 293159,University,Yale University,No,0,0.00%,No,0
 293161,University,Yale University,I don't use Tinder,0,0.00%,Yes,0
-293163,University,Cal Poly San Luis Obispo,Yes,8,32.00%,No,32
-293165,University,Cal Poly San Luis Obispo,No,10,40.00%,Yes,40
-293167,University,Cal Poly San Luis Obispo,I don't use Tinder,7,28.00%,No,28
-293169,University,Carnegie Mellon University,Yes,1,25.00%,No,25
-293171,University,Carnegie Mellon University,No,3,75.00%,No,75
 293173,University,Carnegie Mellon University,I don't use Tinder,0,0.00%,Yes,0
-293175,University,Clemson University,Yes,2,50.00%,No,50
 293177,University,Clemson University,No,0,0.00%,No,0
-293179,University,Clemson University,I don't use Tinder,2,50.00%,No,50
-293181,University,University of Denver,Yes,1,100.00%,Yes,100
 293183,University,University of Denver,No,0,0.00%,No,0
 293185,University,University of Denver,I don't use Tinder,0,0.00%,No,0
 293187,University,University of Washington,Yes,0,0.00%,No,0
-293189,University,University of Washington,No,3,75.00%,Yes,75
-293191,University,University of Washington,I don't use Tinder,1,25.00%,No,25
-293193,University,University of Illinois,Yes,10,21.30%,Yes,21.3
-293195,University,University of Illinois,No,29,61.70%,No,61.7
-293197,University,University of Illinois,I don't use Tinder,8,17.00%,No,17
-293199,University,New York University,Yes,1,33.30%,No,33.3
-293201,University,New York University,No,2,66.70%,Yes,66.7
 293203,University,New York University,I don't use Tinder,0,0.00%,No,0
-293205,University,Butler University,Yes,7,10.30%,No,10.3
-293207,University,Butler University,No,44,64.70%,No,64.7
-293209,University,Butler University,I don't use Tinder,17,25.00%,Yes,25
-293211,University,Washington University in St. Louis,Yes,1,12.50%,No,12.5
-293213,University,Washington University in St. Louis,No,5,62.50%,No,62.5
-293215,University,Washington University in St. Louis,I don't use Tinder,2,25.00%,No,25
 293217,University,Northern Illinois University,Yes,0,0.00%,Yes,0
-293219,University,Northern Illinois University,No,1,50.00%,No,50
-293221,University,Northern Illinois University,I don't use Tinder,1,50.00%,Yes,50
-293223,University,University of Iowa,Yes,1,33.30%,No,33.3
-293225,University,University of Iowa,No,1,33.30%,No,33.3
-293227,University,University of Iowa,I don't use Tinder,1,33.30%,No,33.3
-293229,University,Dartmouth College,Yes,5,50.00%,Yes,50
-293231,University,Dartmouth College,No,3,30.00%,No,30
-293233,University,Dartmouth College,I don't use Tinder,2,20.00%,No,20
 293235,University,Loyola Marymount University,Yes,0,0.00%,No,0
-293237,University,Loyola Marymount University,No,1,100.00%,Yes,100
 293239,University,Loyola Marymount University,I don't use Tinder,0,0.00%,No,0
 293241,University,Williams College,Yes,0,0.00%,No,0
 293243,University,Williams College,No,0,0.00%,No,0
-293245,University,Williams College,I don't use Tinder,1,100.00%,Yes,100
-293247,University,University of Maryland,Yes,1,100.00%,No,100
 293249,University,University of Maryland,No,0,0.00%,Yes,0
 293251,University,University of Maryland,I don't use Tinder,0,0.00%,No,0
-293253,University,UMass Amherst,Yes,3,25.00%,No,25
-293255,University,UMass Amherst,No,6,50.00%,No,50
-293257,University,UMass Amherst,I don't use Tinder,3,25.00%,Yes,25
-293259,University,University of Arizona,Yes,4,36.40%,No,36.4
-293261,University,University of Arizona,No,4,36.40%,No,36.4
-293263,University,University of Arizona,I don't use Tinder,3,27.30%,No,27.3
-293265,University,Texas Christian University,Yes,8,30.80%,Yes,30.8
-293267,University,Texas Christian University,No,8,30.80%,No,30.8
-293269,University,Texas Christian University,I don't use Tinder,10,38.50%,No,38.5
-293271,University,Emory University,Yes,1,20.00%,No,20
-293273,University,Emory University,No,3,60.00%,Yes,60
-293275,University,Emory University,I don't use Tinder,1,20.00%,No,20
-293277,University,Columbia University,Yes,2,33.30%,Yes,33.3
-293279,University,Columbia University,No,3,50.00%,No,50
-293281,University,Columbia University,I don't use Tinder,1,16.70%,No,16.7
-293283,University,Purdue University,Yes,5,19.20%,No,19.2
-293285,University,Purdue University,No,13,50.00%,Yes,50
-293287,University,Purdue University,I don't use Tinder,8,30.80%,No,30.8
-293289,University,Tufts University,Yes,3,42.90%,No,42.9
-293291,University,Tufts University,No,2,28.60%,No,28.6
-293293,University,Tufts University,I don't use Tinder,2,28.60%,Yes,28.6
-293295,University,University of Richmond,Yes,2,11.10%,No,11.1
-293297,University,University of Richmond,No,9,50.00%,No,50
-293299,University,University of Richmond,I don't use Tinder,7,38.90%,No,38.9
 293301,University,Quinnipiac University,Yes,0,0.00%,Yes,0
-293303,University,Quinnipiac University,No,2,100.00%,No,100
 293305,University,Quinnipiac University,I don't use Tinder,0,0.00%,Yes,0
 293307,University,United States Naval Academy,Yes,0,0.00%,No,0
-293309,University,United States Naval Academy,No,3,42.90%,No,42.9
-293311,University,United States Naval Academy,I don't use Tinder,4,57.10%,No,57.1
-293313,University,"University of California, Santa Cruz",Yes,2,66.70%,Yes,66.7
-293315,University,"University of California, Santa Cruz",No,1,33.30%,No,33.3
 293317,University,"University of California, Santa Cruz",I don't use Tinder,0,0.00%,No,0
-293319,University,Rice University ,Yes,1,16.70%,No,16.7
-293321,University,Rice University ,No,4,66.70%,Yes,66.7
-293323,University,Rice University ,I don't use Tinder,1,16.70%,No,16.7
-293325,University,Mississippi State University,Yes,4,36.40%,No,36.4
-293327,University,Mississippi State University,No,6,54.50%,No,54.5
-293329,University,Mississippi State University,I don't use Tinder,1,9.10%,Yes,9.1
-293331,University,University of Missouri,Yes,7,23.30%,No,23.3
-293333,University,University of Missouri,No,15,50.00%,Yes,50
-293335,University,University of Missouri,I don't use Tinder,8,26.70%,No,26.7
-293337,University,University of Georgia,Yes,1,9.10%,No,9.1
-293339,University,University of Georgia,No,9,81.80%,No,81.8
-293341,University,University of Georgia,I don't use Tinder,1,9.10%,Yes,9.1
-293343,University,Louisiana State University,Yes,2,25.00%,No,25
-293345,University,Louisiana State University,No,4,50.00%,No,50
-293347,University,Louisiana State University,I don't use Tinder,2,25.00%,No,25
 293349,University,Lehigh University,Yes,0,0.00%,Yes,0
-293351,University,Lehigh University,No,2,66.70%,No,66.7
-293353,University,Lehigh University,I don't use Tinder,1,33.30%,No,33.3
-293355,University,Northern Arizona University,Yes,1,100.00%,No,100
 293357,University,Northern Arizona University,No,0,0.00%,Yes,0
 293359,University,Northern Arizona University,I don't use Tinder,0,0.00%,No,0
 293361,University,Elon University,Yes,0,0.00%,Yes,0
-293363,University,Elon University,No,4,66.70%,No,66.7
-293365,University,Elon University,I don't use Tinder,2,33.30%,No,33.3
-293367,University,Vassar College,Yes,1,50.00%,No,50
-293369,University,Vassar College,No,1,50.00%,Yes,50
 293371,University,Vassar College,I don't use Tinder,0,0.00%,No,0
 293373,University,University of Pittsburgh,Yes,0,0.00%,No,0
 293375,University,University of Pittsburgh,No,0,0.00%,No,0
-293377,University,University of Pittsburgh,I don't use Tinder,2,100.00%,Yes,100
-293379,University,University of Chicago,Yes,2,40.00%,No,40
-293381,University,University of Chicago,No,1,20.00%,No,20
-293383,University,University of Chicago,I don't use Tinder,2,40.00%,No,40
 293385,University,University of Buffalo,Yes,0,0.00%,Yes,0
 293387,University,University of Buffalo,No,0,0.00%,No,0
-293389,University,University of Buffalo,I don't use Tinder,1,100.00%,Yes,100
-293391,University,University of Minnesota,Yes,2,50.00%,No,50
-293393,University,University of Minnesota,No,1,25.00%,No,25
-293395,University,University of Minnesota,I don't use Tinder,1,25.00%,No,25
 293397,University,Colorado State University,Yes,0,0.00%,Yes,0
-293399,University,Colorado State University,No,3,100.00%,No,100
 293401,University,Colorado State University,I don't use Tinder,0,0.00%,No,0
 293403,University,Skidmore College,Yes,0,0.00%,No,0
-293405,University,Skidmore College,No,1,100.00%,Yes,100
 293407,University,Skidmore College,I don't use Tinder,0,0.00%,No,0
 293409,University,Rochester Institute of Technology,Yes,0,0.00%,No,0
-293411,University,Rochester Institute of Technology,No,2,100.00%,No,100
 293413,University,Rochester Institute of Technology,I don't use Tinder,0,0.00%,Yes,0
 293415,University,Arizona State University,Yes,0,0.00%,No,0
-293417,University,Arizona State University,No,1,50.00%,Yes,50
-293419,University,Arizona State University,I don't use Tinder,1,50.00%,No,50
-293421,University,University of Rochester,Yes,1,33.30%,No,33.3
-293423,University,University of Rochester,No,2,66.70%,No,66.7
 293425,University,University of Rochester,I don't use Tinder,0,0.00%,Yes,0
 293427,University,University of St Andrews,Yes,0,0.00%,No,0
-293429,University,University of St Andrews,No,2,66.70%,No,66.7
-293431,University,University of St Andrews,I don't use Tinder,1,33.30%,No,33.3
 293433,University,Florida State University,Yes,0,0.00%,Yes,0
 293435,University,Florida State University,No,0,0.00%,No,0
-293437,University,Florida State University,I don't use Tinder,1,100.00%,No,100
-293439,University,Ithaca College,Yes,1,25.00%,No,25
-293441,University,Ithaca College,No,2,50.00%,Yes,50
-293443,University,Ithaca College,I don't use Tinder,1,25.00%,No,25
-293445,University,Union College,Yes,1,11.10%,Yes,11.1
-293447,University,Union College,No,7,77.80%,No,77.8
-293449,University,Union College,I don't use Tinder,1,11.10%,No,11.1
 293451,University,Loyola University Maryland,Yes,0,0.00%,No,0
-293453,University,Loyola University Maryland,No,3,100.00%,Yes,100
 293455,University,Loyola University Maryland,I don't use Tinder,0,0.00%,No,0
-293457,University,Marquette University,Yes,1,50.00%,No,50
-293459,University,Marquette University,No,1,50.00%,No,50
 293461,University,Marquette University,I don't use Tinder,0,0.00%,Yes,0
-293463,University,James Madison University,Yes,1,100.00%,No,100
 293465,University,James Madison University,No,0,0.00%,No,0
 293467,University,James Madison University,I don't use Tinder,0,0.00%,No,0
 293469,University,Sacred Heart University,Yes,0,0.00%,Yes,0
-293471,University,Sacred Heart University,No,1,100.00%,No,100
 293473,University,Sacred Heart University,I don't use Tinder,0,0.00%,Yes,0
-293475,University,University of Wisconsin-Whitewater,Yes,2,40.00%,No,40
-293477,University,University of Wisconsin-Whitewater,No,2,40.00%,No,40
-293479,University,University of Wisconsin-Whitewater,I don't use Tinder,1,20.00%,No,20
-293481,University,St. Lawrence University,Yes,1,100.00%,Yes,100
 293483,University,St. Lawrence University,No,0,0.00%,No,0
 293485,University,St. Lawrence University,I don't use Tinder,0,0.00%,No,0
 293487,University,Iowa State University,Yes,0,0.00%,No,0
-293489,University,Iowa State University,No,1,100.00%,Yes,100
 293491,University,Iowa State University,I don't use Tinder,0,0.00%,No,0
 293493,University,University of Wisconsin-La Crosse,Yes,0,0.00%,No,0
-293495,University,University of Wisconsin-La Crosse,No,2,66.70%,No,66.7
-293497,University,University of Wisconsin-La Crosse,I don't use Tinder,1,33.30%,Yes,33.3
-293499,University,College of William and Mary,Yes,3,18.80%,No,18.8
-293501,University,College of William and Mary,No,7,43.80%,Yes,43.8
-293503,University,College of William and Mary,I don't use Tinder,6,37.50%,No,37.5
 293505,University,University of Notre Dame,Yes,0,0.00%,No,0
-293507,University,University of Notre Dame,No,3,60.00%,No,60
-293509,University,University of Notre Dame,I don't use Tinder,2,40.00%,Yes,40
-293511,University,University of Tennessee,Yes,2,50.00%,No,50
-293513,University,University of Tennessee,No,1,25.00%,No,25
-293515,University,University of Tennessee,I don't use Tinder,1,25.00%,No,25
 293517,University,Illinois State,Yes,0,0.00%,Yes,0
-293519,University,Illinois State,No,1,50.00%,No,50
-293521,University,Illinois State,I don't use Tinder,1,50.00%,No,50
 293523,University,Auburn University,Yes,0,0.00%,No,0
-293525,University,Auburn University,No,1,100.00%,Yes,100
 293527,University,Auburn University,I don't use Tinder,0,0.00%,No,0
 293529,University,Gonzaga University,Yes,0,0.00%,Yes,0
-293531,University,Gonzaga University,No,1,100.00%,No,100
 293533,University,Gonzaga University,I don't use Tinder,0,0.00%,No,0
-293535,University,Washington State University,Yes,8,30.80%,No,30.8
-293537,University,Washington State University,No,12,46.20%,Yes,46.2
-293539,University,Washington State University,I don't use Tinder,6,23.10%,No,23.1
 293541,University,Michigan State University,Yes,0,0.00%,No,0
-293543,University,Michigan State University,No,1,100.00%,No,100
 293545,University,Michigan State University,I don't use Tinder,0,0.00%,Yes,0
 293547,University,Florida International University,Yes,0,0.00%,No,0
-293549,University,Florida International University,No,2,100.00%,No,100
 293551,University,Florida International University,I don't use Tinder,0,0.00%,No,0
 293553,University,University of Central Florida,Yes,0,0.00%,Yes,0
 293555,University,University of Central Florida,No,0,0.00%,No,0
-293557,University,University of Central Florida,I don't use Tinder,1,100.00%,Yes,100
 293559,University,Castleton State College,Yes,0,0.00%,No,0
-293561,University,Castleton State College,No,1,100.00%,No,100
 293563,University,Castleton State College,I don't use Tinder,0,0.00%,No,0
 293565,University,Cal State Northridge,Yes,0,0.00%,Yes,0
-293567,University,Cal State Northridge,No,2,66.70%,No,66.7
-293569,University,Cal State Northridge,I don't use Tinder,1,33.30%,No,33.3
 293571,University,Ohio University,Yes,0,0.00%,No,0
-293573,University,Ohio University,No,1,100.00%,Yes,100
 293575,University,Ohio University,I don't use Tinder,0,0.00%,No,0
 293577,University,Pepperdine University,Yes,0,0.00%,No,0
-293579,University,Pepperdine University,No,2,100.00%,No,100
 293581,University,Pepperdine University,I don't use Tinder,0,0.00%,Yes,0
 293583,University,Providence College,Yes,0,0.00%,No,0
-293585,University,Providence College,No,1,100.00%,Yes,100
 293587,University,Providence College,I don't use Tinder,0,0.00%,No,0
-293589,University,Appalachian State University,Yes,16,13.90%,No,13.9
-293591,University,Appalachian State University,No,53,46.10%,No,46.1
-293593,University,Appalachian State University,I don't use Tinder,46,40.00%,Yes,40
 293595,University,University of Connecticut,Yes,0,0.00%,No,0
-293597,University,University of Connecticut,No,3,37.50%,No,37.5
-293599,University,University of Connecticut,I don't use Tinder,5,62.50%,No,62.5
-293601,University,"University of Wisconsin, Eau Claire",Yes,1,100.00%,Yes,100
 293603,University,"University of Wisconsin, Eau Claire",No,0,0.00%,No,0
 293605,University,"University of Wisconsin, Eau Claire",I don't use Tinder,0,0.00%,No,0
-293607,University,University of Delaware,Yes,1,25.00%,No,25
-293609,University,University of Delaware,No,2,50.00%,Yes,50
-293611,University,University of Delaware,I don't use Tinder,1,25.00%,No,25
 293613,University,Massachusetts Institute of Technology,Yes,0,0.00%,Yes,0
-293615,University,Massachusetts Institute of Technology,No,1,50.00%,No,50
-293617,University,Massachusetts Institute of Technology,I don't use Tinder,1,50.00%,No,50
 293619,University,Oregon State University,Yes,0,0.00%,No,0
-293621,University,Oregon State University,No,1,100.00%,Yes,100
 293623,University,Oregon State University,I don't use Tinder,0,0.00%,No,0
 293625,University,Whatsgoodly University,Yes,0,0.00%,No,0
-293627,University,Whatsgoodly University,No,1,100.00%,No,100
 293629,University,Whatsgoodly University,I don't use Tinder,0,0.00%,Yes,0
-293631,University,Case Western Reserve University,Yes,7,22.60%,No,22.6
-293633,University,Case Western Reserve University,No,12,38.70%,No,38.7
-293635,University,Case Western Reserve University,I don't use Tinder,12,38.70%,No,38.7
 293637,University,Michigan Technological University,Yes,0,0.00%,Yes,0
-293639,University,Michigan Technological University,No,3,75.00%,No,75
-293641,University,Michigan Technological University,I don't use Tinder,1,25.00%,Yes,25
-293643,University,"Meridian, Idaho",Yes,1,100.00%,No,100
 293645,University,"Meridian, Idaho",No,0,0.00%,No,0
 293647,University,"Meridian, Idaho",I don't use Tinder,0,0.00%,No,0
-293649,University,University of Dayton,Yes,4,57.10%,Yes,57.1
-293651,University,University of Dayton,No,3,42.90%,No,42.9
 293653,University,University of Dayton,I don't use Tinder,0,0.00%,No,0
-293655,University,University of Kansas,Yes,3,30.00%,No,30
-293657,University,University of Kansas,No,5,50.00%,Yes,50
-293659,University,University of Kansas,I don't use Tinder,2,20.00%,No,20
 293661,University,Morehead State University,Yes,0,0.00%,No,0
 293663,University,Morehead State University,No,0,0.00%,No,0
-293665,University,Morehead State University,I don't use Tinder,1,100.00%,Yes,100
-293667,University,University of Central Oklahoma,Yes,1,50.00%,No,50
 293669,University,University of Central Oklahoma,No,0,0.00%,Yes,0
-293671,University,University of Central Oklahoma,I don't use Tinder,1,50.00%,No,50
-293673,University,Syracuse University,Yes,4,44.40%,No,44.4
-293675,University,Syracuse University,No,4,44.40%,No,44.4
-293677,University,Syracuse University,I don't use Tinder,1,11.10%,Yes,11.1
-293679,University,Colby College,Yes,1,7.10%,No,7.1
-293681,University,Colby College,No,11,78.60%,No,78.6
-293683,University,Colby College,I don't use Tinder,2,14.30%,No,14.3
-293685,University,Brigham Young University,Yes,1,12.50%,Yes,12.5
-293687,University,Brigham Young University,No,3,37.50%,No,37.5
-293689,University,Brigham Young University,I don't use Tinder,4,50.00%,No,50
 293691,University,Arkansas State University,Yes,0,0.00%,No,0
-293693,University,Arkansas State University,No,1,100.00%,Yes,100
 293695,University,Arkansas State University,I don't use Tinder,0,0.00%,No,0
 293697,University,"Westport, CT",Yes,0,0.00%,Yes,0
 293699,University,"Westport, CT",No,0,0.00%,No,0
-293701,University,"Westport, CT",I don't use Tinder,1,100.00%,No,100
 293703,University,Centre College,Yes,0,0.00%,No,0
-293705,University,Centre College,No,3,75.00%,Yes,75
-293707,University,Centre College,I don't use Tinder,1,25.00%,No,25
-293709,University,Middlebury College,Yes,1,100.00%,No,100
 293711,University,Middlebury College,No,0,0.00%,No,0
 293713,University,Middlebury College,I don't use Tinder,0,0.00%,Yes,0
-293715,University,North Carolina State,Yes,1,100.00%,No,100
 293717,University,North Carolina State,No,0,0.00%,No,0
 293719,University,North Carolina State,I don't use Tinder,0,0.00%,No,0
 293721,University,University of Kentucky,Yes,0,0.00%,Yes,0
-293723,University,University of Kentucky,No,1,100.00%,No,100
 293725,University,University of Kentucky,I don't use Tinder,0,0.00%,Yes,0
-293727,University,Bucknell University,Yes,1,100.00%,No,100
 293729,University,Bucknell University,No,0,0.00%,No,0
 293731,University,Bucknell University,I don't use Tinder,0,0.00%,No,0
 293733,University,Randolph-Macon College,Yes,0,0.00%,Yes,0
 293735,University,Randolph-Macon College,No,0,0.00%,No,0
-293737,University,Randolph-Macon College,I don't use Tinder,1,100.00%,No,100
-293739,University,Old Dominion University,Yes,1,100.00%,No,100
 293741,University,Old Dominion University,No,0,0.00%,Yes,0
 293743,University,Old Dominion University,I don't use Tinder,0,0.00%,No,0
 293745,University,University of Tampa,Yes,0,0.00%,No,0
-293747,University,University of Tampa,No,1,100.00%,No,100
 293749,University,University of Tampa,I don't use Tinder,0,0.00%,Yes,0
 293751,University,Roger Williams University,Yes,0,0.00%,No,0
-293753,University,Roger Williams University,No,1,100.00%,Yes,100
 293755,University,Roger Williams University,I don't use Tinder,0,0.00%,No,0
-293757,University,Penn State University,Yes,4,40.00%,No,40
-293759,University,Penn State University,No,5,50.00%,No,50
-293761,University,Penn State University,I don't use Tinder,1,10.00%,Yes,10
-293763,University,Minnesota State University Mankato,Yes,1,100.00%,No,100
 293765,University,Minnesota State University Mankato,No,0,0.00%,No,0
 293767,University,Minnesota State University Mankato,I don't use Tinder,0,0.00%,No,0
 293769,University,University of Florida,Yes,0,0.00%,Yes,0
-293771,University,University of Florida,No,1,100.00%,No,100
 293773,University,University of Florida,I don't use Tinder,0,0.00%,No,0
 293775,University,Boston College,Yes,0,0.00%,No,0
-293777,University,Boston College,No,4,80.00%,Yes,80
+292963,University,Ohio State University,I don't use Tinder,1,5.30%,No,5
+293679,University,Colby College,Yes,1,7.10%,No,7
+293031,University,"University of California, Los Angeles",Yes,1,7.70%,No,8
+293121,University,University of North Carolina,Yes,1,8.30%,No,8
+293329,University,Mississippi State University,I don't use Tinder,1,9.10%,Yes,9
+293337,University,University of Georgia,Yes,1,9.10%,No,9
+293341,University,University of Georgia,I don't use Tinder,1,9.10%,Yes,9
+293067,University,University of Southern California,Yes,1,10.00%,No,10
+293205,University,Butler University,Yes,7,10.30%,No,10
+293761,University,Penn State University,I don't use Tinder,1,10.00%,Yes,10
+292945,University,Indiana University,I don't use Tinder,5,11.40%,No,11
+293295,University,University of Richmond,Yes,2,11.10%,No,11
+293445,University,Union College,Yes,1,11.10%,Yes,11
+293449,University,Union College,I don't use Tinder,1,11.10%,No,11
+293677,University,Syracuse University,I don't use Tinder,1,11.10%,Yes,11
+292989,University,Stanford University,Yes,13,12.00%,No,12
+293083,University,Vanderbilt University,I don't use Tinder,12,12.20%,No,12
+293013,University,University of Alabama,Yes,2,13.30%,Yes,13
+293017,University,University of Alabama,I don't use Tinder,2,13.30%,No,13
+293211,University,Washington University in St. Louis,Yes,1,12.50%,No,13
+293685,University,Brigham Young University,Yes,1,12.50%,Yes,13
+292999,University,Tulane University,I don't use Tinder,1,14.30%,No,14
+293589,University,Appalachian State University,Yes,16,13.90%,No,14
+293683,University,Colby College,I don't use Tinder,2,14.30%,No,14
+293055,University,University of Michigan,Yes,14,16.30%,No,16
+293091,University,University of Texas,Yes,12,16.40%,No,16
+293011,University,University of Wisconsin-Madison,I don't use Tinder,21,16.70%,No,17
+293073,University,University of Virginia,Yes,3,16.70%,No,17
+293197,University,University of Illinois,I don't use Tinder,8,17.00%,No,17
+293281,University,Columbia University,I don't use Tinder,1,16.70%,No,17
+293319,University,Rice University ,Yes,1,16.70%,No,17
+293323,University,Rice University ,I don't use Tinder,1,16.70%,No,17
+293785,University,Boston University,I don't use Tinder,1,16.70%,No,17
+293025,University,"University of California, Davis",Yes,3,17.60%,Yes,18
+293127,University,University of Arkansas,Yes,12,18.20%,No,18
+292971,University,San Diego State University,Yes,5,19.20%,No,19
+293283,University,Purdue University,Yes,5,19.20%,No,19
+293499,University,College of William and Mary,Yes,3,18.80%,No,19
+292899,Gender,Female respondents,Yes,325,19.80%,No,20
+292957,University,Northwestern University,I don't use Tinder,24,20.00%,Yes,20
+292981,University,Santa Clara University,I don't use Tinder,1,20.00%,No,20
+293061,University,University of Oregon,Yes,1,20.00%,Yes,20
+293071,University,University of Southern California,I don't use Tinder,2,20.00%,No,20
+293155,University,University of Oklahoma,I don't use Tinder,1,20.00%,No,20
+293233,University,Dartmouth College,I don't use Tinder,2,20.00%,No,20
+293271,University,Emory University,Yes,1,20.00%,No,20
+293275,University,Emory University,I don't use Tinder,1,20.00%,No,20
+293381,University,University of Chicago,No,1,20.00%,No,20
+293479,University,University of Wisconsin-Whitewater,I don't use Tinder,1,20.00%,No,20
+293659,University,University of Kansas,I don't use Tinder,2,20.00%,No,20
 293779,University,Boston College,I don't use Tinder,1,20.00%,No,20
-293781,University,Boston University,Yes,2,33.30%,Yes,33.3
+292881,Mobile,Mobile respondents,Yes,797,20.70%,Yes,21
+292893,Gender,Male respondents,Yes,472,21.30%,Yes,21
+292905,University,Chapman University,Yes,13,20.60%,No,21
+292941,University,Indiana University,Yes,9,20.50%,Yes,21
+292951,University,Johns Hopkins University,I don't use Tinder,29,21.00%,No,21
+293023,University,"University of California, Berkeley",I don't use Tinder,19,20.90%,No,21
+293193,University,University of Illinois,Yes,10,21.30%,Yes,21
+292987,University,Southern Methodist University,I don't use Tinder,2,22.20%,No,22
+293001,University,University of Pennsylvania,Yes,24,22.20%,No,22
+293005,University,University of Pennsylvania,I don't use Tinder,24,22.20%,Yes,22
+293149,University,Texas A&M University,I don't use Tinder,12,22.20%,No,22
+292975,University,San Diego State University,I don't use Tinder,6,23.10%,No,23
+293041,University,"University of California, Santa Barbara",I don't use Tinder,17,22.70%,Yes,23
+293115,University,Texas Tech University,Yes,3,23.10%,No,23
+293331,University,University of Missouri,Yes,7,23.30%,No,23
+293539,University,Washington State University,I don't use Tinder,6,23.10%,No,23
+293631,University,Case Western Reserve University,Yes,7,22.60%,No,23
+292911,University,Cornell University,Yes,47,24.40%,No,24
+292947,University,Johns Hopkins University,Yes,33,23.90%,No,24
+293079,University,Vanderbilt University,Yes,23,23.50%,No,24
+293145,University,Texas A&M University,Yes,13,24.10%,Yes,24
+292923,University,George Washington University,Yes,1,25.00%,No,25
+292931,University,Georgetown University,No,1,25.00%,No,25
+292933,University,Georgetown University,I don't use Tinder,1,25.00%,No,25
+293113,University,University of Maine,I don't use Tinder,1,25.00%,No,25
+293125,University,University of North Carolina,I don't use Tinder,3,25.00%,Yes,25
+293169,University,Carnegie Mellon University,Yes,1,25.00%,No,25
+293191,University,University of Washington,I don't use Tinder,1,25.00%,No,25
+293209,University,Butler University,I don't use Tinder,17,25.00%,Yes,25
+293215,University,Washington University in St. Louis,I don't use Tinder,2,25.00%,No,25
+293253,University,UMass Amherst,Yes,3,25.00%,No,25
+293257,University,UMass Amherst,I don't use Tinder,3,25.00%,Yes,25
+293343,University,Louisiana State University,Yes,2,25.00%,No,25
+293347,University,Louisiana State University,I don't use Tinder,2,25.00%,No,25
+293393,University,University of Minnesota,No,1,25.00%,No,25
+293395,University,University of Minnesota,I don't use Tinder,1,25.00%,No,25
+293439,University,Ithaca College,Yes,1,25.00%,No,25
+293443,University,Ithaca College,I don't use Tinder,1,25.00%,No,25
+293513,University,University of Tennessee,No,1,25.00%,No,25
+293515,University,University of Tennessee,I don't use Tinder,1,25.00%,No,25
+293607,University,University of Delaware,Yes,1,25.00%,No,25
+293611,University,University of Delaware,I don't use Tinder,1,25.00%,No,25
+293641,University,Michigan Technological University,I don't use Tinder,1,25.00%,Yes,25
+293707,University,Centre College,I don't use Tinder,1,25.00%,No,25
+292897,Gender,Male respondents,I don't use Tinder,574,25.90%,No,26
+292915,University,Cornell University,I don't use Tinder,51,26.40%,No,26
+292953,University,Northwestern University,Yes,31,25.80%,No,26
+293007,University,University of Wisconsin-Madison,Yes,34,27.00%,No,27
+293059,University,University of Michigan,I don't use Tinder,23,26.70%,No,27
+293263,University,University of Arizona,I don't use Tinder,3,27.30%,No,27
+293335,University,University of Missouri,I don't use Tinder,8,26.70%,No,27
+292885,Mobile,Mobile respondents,I don't use Tinder,1090,28.30%,Yes,28
+293019,University,"University of California, Berkeley",Yes,25,27.50%,No,28
+293167,University,Cal Poly San Luis Obispo,I don't use Tinder,7,28.00%,No,28
+293131,University,University of Arkansas,I don't use Tinder,19,28.80%,No,29
+293139,University,Baylor University,Yes,2,28.60%,No,29
+293141,University,Baylor University,No,2,28.60%,No,29
+293291,University,Tufts University,No,2,28.60%,No,29
+293293,University,Tufts University,I don't use Tinder,2,28.60%,Yes,29
+292909,University,Chapman University,I don't use Tinder,19,30.20%,Yes,30
+293231,University,Dartmouth College,No,3,30.00%,No,30
+293655,University,University of Kansas,Yes,3,30.00%,No,30
+293265,University,Texas Christian University,Yes,8,30.80%,Yes,31
+293267,University,Texas Christian University,No,8,30.80%,No,31
+293287,University,Purdue University,I don't use Tinder,8,30.80%,No,31
+293535,University,Washington State University,Yes,8,30.80%,No,31
+292903,Gender,Female respondents,I don't use Tinder,516,31.50%,No,32
+292959,University,Ohio State University,Yes,6,31.60%,No,32
+293037,University,"University of California, Santa Barbara",Yes,24,32.00%,No,32
+293163,University,Cal Poly San Luis Obispo,Yes,8,32.00%,No,32
+292921,University,Duke University,I don't use Tinder,1,33.30%,Yes,33
+292935,University,Harvard University,Yes,1,33.30%,No,33
+292983,University,Southern Methodist University,Yes,3,33.30%,No,33
+293135,University,University of Mississippi,No,1,33.30%,No,33
+293199,University,New York University,Yes,1,33.30%,No,33
+293223,University,University of Iowa,Yes,1,33.30%,No,33
+293225,University,University of Iowa,No,1,33.30%,No,33
+293227,University,University of Iowa,I don't use Tinder,1,33.30%,No,33
+293277,University,Columbia University,Yes,2,33.30%,Yes,33
+293315,University,"University of California, Santa Cruz",No,1,33.30%,No,33
+293353,University,Lehigh University,I don't use Tinder,1,33.30%,No,33
+293365,University,Elon University,I don't use Tinder,2,33.30%,No,33
+293421,University,University of Rochester,Yes,1,33.30%,No,33
+293431,University,University of St Andrews,I don't use Tinder,1,33.30%,No,33
+293497,University,University of Wisconsin-La Crosse,I don't use Tinder,1,33.30%,Yes,33
+293569,University,Cal State Northridge,I don't use Tinder,1,33.30%,No,33
+293781,University,Boston University,Yes,2,33.30%,Yes,33
+292993,University,Stanford University,I don't use Tinder,37,34.30%,Yes,34
+293029,University,"University of California, Davis",I don't use Tinder,6,35.30%,No,35
+293095,University,University of Texas,I don't use Tinder,26,35.60%,No,36
+293259,University,University of Arizona,Yes,4,36.40%,No,36
+293261,University,University of Arizona,No,4,36.40%,No,36
+293325,University,Mississippi State University,Yes,4,36.40%,No,36
+293503,University,College of William and Mary,I don't use Tinder,6,37.50%,No,38
+293597,University,University of Connecticut,No,3,37.50%,No,38
+293687,University,Brigham Young University,No,3,37.50%,No,38
+293035,University,"University of California, Los Angeles",I don't use Tinder,5,38.50%,No,39
+293075,University,University of Virginia,No,7,38.90%,No,39
+293117,University,Texas Tech University,No,5,38.50%,Yes,39
+293119,University,Texas Tech University,I don't use Tinder,5,38.50%,No,39
+293269,University,Texas Christian University,I don't use Tinder,10,38.50%,No,39
+293299,University,University of Richmond,I don't use Tinder,7,38.90%,No,39
+293633,University,Case Western Reserve University,No,12,38.70%,No,39
+293635,University,Case Western Reserve University,I don't use Tinder,12,38.70%,No,39
+293165,University,Cal Poly San Luis Obispo,No,10,40.00%,Yes,40
+293379,University,University of Chicago,Yes,2,40.00%,No,40
+293383,University,University of Chicago,I don't use Tinder,2,40.00%,No,40
+293475,University,University of Wisconsin-Whitewater,Yes,2,40.00%,No,40
+293477,University,University of Wisconsin-Whitewater,No,2,40.00%,No,40
+293509,University,University of Notre Dame,I don't use Tinder,2,40.00%,Yes,40
+293593,University,Appalachian State University,I don't use Tinder,46,40.00%,Yes,40
+293757,University,Penn State University,Yes,4,40.00%,No,40
+292995,University,Tulane University,Yes,3,42.90%,No,43
+292997,University,Tulane University,No,3,42.90%,Yes,43
+293143,University,Baylor University,I don't use Tinder,3,42.90%,No,43
+293289,University,Tufts University,Yes,3,42.90%,No,43
+293309,University,United States Naval Academy,No,3,42.90%,No,43
+293651,University,University of Dayton,No,3,42.90%,No,43
+292985,University,Southern Methodist University,No,4,44.40%,Yes,44
+293077,University,University of Virginia,I don't use Tinder,8,44.40%,Yes,44
+293501,University,College of William and Mary,No,7,43.80%,Yes,44
+293673,University,Syracuse University,Yes,4,44.40%,No,44
+293675,University,Syracuse University,No,4,44.40%,No,44
+293039,University,"University of California, Santa Barbara",No,34,45.30%,No,45
+293537,University,Washington State University,No,12,46.20%,Yes,46
+293591,University,Appalachian State University,No,53,46.10%,No,46
+293027,University,"University of California, Davis",No,8,47.10%,No,47
+293093,University,University of Texas,No,35,47.90%,No,48
+292901,Gender,Female respondents,No,797,48.70%,Yes,49
+292907,University,Chapman University,No,31,49.20%,No,49
+292913,University,Cornell University,No,95,49.20%,Yes,49
+292929,University,Georgetown University,Yes,2,50.00%,Yes,50
+292965,University,Princeton University,Yes,1,50.00%,Yes,50
+292967,University,Princeton University,No,1,50.00%,No,50
+293043,University,University of Colorado Boulder,Yes,3,50.00%,No,50
+293045,University,University of Colorado Boulder,No,3,50.00%,No,50
+293105,University,Miami University (Ohio),No,1,50.00%,Yes,50
+293107,University,Miami University (Ohio),I don't use Tinder,1,50.00%,No,50
+293175,University,Clemson University,Yes,2,50.00%,No,50
+293179,University,Clemson University,I don't use Tinder,2,50.00%,No,50
+293219,University,Northern Illinois University,No,1,50.00%,No,50
+293221,University,Northern Illinois University,I don't use Tinder,1,50.00%,Yes,50
+293229,University,Dartmouth College,Yes,5,50.00%,Yes,50
+293255,University,UMass Amherst,No,6,50.00%,No,50
+293279,University,Columbia University,No,3,50.00%,No,50
+293285,University,Purdue University,No,13,50.00%,Yes,50
+293297,University,University of Richmond,No,9,50.00%,No,50
+293333,University,University of Missouri,No,15,50.00%,Yes,50
+293345,University,Louisiana State University,No,4,50.00%,No,50
+293367,University,Vassar College,Yes,1,50.00%,No,50
+293369,University,Vassar College,No,1,50.00%,Yes,50
+293391,University,University of Minnesota,Yes,2,50.00%,No,50
+293417,University,Arizona State University,No,1,50.00%,Yes,50
+293419,University,Arizona State University,I don't use Tinder,1,50.00%,No,50
+293441,University,Ithaca College,No,2,50.00%,Yes,50
+293457,University,Marquette University,Yes,1,50.00%,No,50
+293459,University,Marquette University,No,1,50.00%,No,50
+293511,University,University of Tennessee,Yes,2,50.00%,No,50
+293519,University,Illinois State,No,1,50.00%,No,50
+293521,University,Illinois State,I don't use Tinder,1,50.00%,No,50
+293609,University,University of Delaware,No,2,50.00%,Yes,50
+293615,University,Massachusetts Institute of Technology,No,1,50.00%,No,50
+293617,University,Massachusetts Institute of Technology,I don't use Tinder,1,50.00%,No,50
+293657,University,University of Kansas,No,5,50.00%,Yes,50
+293667,University,University of Central Oklahoma,Yes,1,50.00%,No,50
+293671,University,University of Central Oklahoma,I don't use Tinder,1,50.00%,No,50
+293689,University,Brigham Young University,I don't use Tinder,4,50.00%,No,50
+293759,University,Penn State University,No,5,50.00%,No,50
 293783,University,Boston University,No,3,50.00%,No,50
-293785,University,Boston University,I don't use Tinder,1,16.70%,No,16.7
+292883,Mobile,Mobile respondents,No,1969,51.10%,No,51
+293021,University,"University of California, Berkeley",No,47,51.60%,Yes,52
+292895,Gender,Male respondents,No,1172,52.80%,No,53
+293129,University,University of Arkansas,No,35,53.00%,No,53
+292955,University,Northwestern University,No,65,54.20%,No,54
+292991,University,Stanford University,No,58,53.70%,No,54
+293033,University,"University of California, Los Angeles",No,7,53.80%,Yes,54
+293147,University,Texas A&M University,No,29,53.70%,No,54
+292949,University,Johns Hopkins University,No,76,55.10%,Yes,55
+293327,University,Mississippi State University,No,6,54.50%,No,55
+293003,University,University of Pennsylvania,No,60,55.60%,No,56
+293009,University,University of Wisconsin-Madison,No,71,56.30%,No,56
+293057,University,University of Michigan,No,49,57.00%,No,57
+293311,University,United States Naval Academy,I don't use Tinder,4,57.10%,No,57
+293649,University,University of Dayton,Yes,4,57.10%,Yes,57
+292973,University,San Diego State University,No,15,57.70%,No,58
+293273,University,Emory University,No,3,60.00%,Yes,60
+293507,University,University of Notre Dame,No,3,60.00%,No,60
+293195,University,University of Illinois,No,29,61.70%,No,62
+292961,University,Ohio State University,No,12,63.20%,No,63
+293213,University,Washington University in St. Louis,No,5,62.50%,No,63
+293599,University,University of Connecticut,I don't use Tinder,5,62.50%,No,63
+293081,University,Vanderbilt University,No,63,64.30%,Yes,64
+293207,University,Butler University,No,44,64.70%,No,65
+292919,University,Duke University,No,2,66.70%,No,67
+292937,University,Harvard University,No,2,66.70%,Yes,67
+293123,University,University of North Carolina,No,8,66.70%,No,67
+293133,University,University of Mississippi,Yes,2,66.70%,Yes,67
+293201,University,New York University,No,2,66.70%,Yes,67
+293313,University,"University of California, Santa Cruz",Yes,2,66.70%,Yes,67
+293321,University,Rice University ,No,4,66.70%,Yes,67
+293351,University,Lehigh University,No,2,66.70%,No,67
+293363,University,Elon University,No,4,66.70%,No,67
+293423,University,University of Rochester,No,2,66.70%,No,67
+293429,University,University of St Andrews,No,2,66.70%,No,67
+293495,University,University of Wisconsin-La Crosse,No,2,66.70%,No,67
+293567,University,Cal State Northridge,No,2,66.70%,No,67
+292943,University,Indiana University,No,30,68.20%,No,68
+293069,University,University of Southern California,No,7,70.00%,Yes,70
+293015,University,University of Alabama,No,11,73.30%,No,73
+292925,University,George Washington University,No,3,75.00%,No,75
+293111,University,University of Maine,No,3,75.00%,No,75
+293171,University,Carnegie Mellon University,No,3,75.00%,No,75
+293189,University,University of Washington,No,3,75.00%,Yes,75
+293639,University,Michigan Technological University,No,3,75.00%,No,75
+293705,University,Centre College,No,3,75.00%,Yes,75
+293447,University,Union College,No,7,77.80%,No,78
+293681,University,Colby College,No,11,78.60%,No,79
+292979,University,Santa Clara University,No,4,80.00%,No,80
+293063,University,University of Oregon,No,4,80.00%,No,80
+293153,University,University of Oklahoma,No,4,80.00%,Yes,80
+293777,University,Boston College,No,4,80.00%,Yes,80
+293339,University,University of Georgia,No,9,81.80%,No,82
+293053,University,University of Miami,I don't use Tinder,1,100.00%,Yes,100
+293087,University,Wesleyan University,No,2,100.00%,No,100
+293097,University,"University of California, San Diego",Yes,1,100.00%,Yes,100
+293157,University,Yale University,Yes,1,100.00%,No,100
+293181,University,University of Denver,Yes,1,100.00%,Yes,100
+293237,University,Loyola Marymount University,No,1,100.00%,Yes,100
+293245,University,Williams College,I don't use Tinder,1,100.00%,Yes,100
+293247,University,University of Maryland,Yes,1,100.00%,No,100
+293303,University,Quinnipiac University,No,2,100.00%,No,100
+293355,University,Northern Arizona University,Yes,1,100.00%,No,100
+293377,University,University of Pittsburgh,I don't use Tinder,2,100.00%,Yes,100
+293389,University,University of Buffalo,I don't use Tinder,1,100.00%,Yes,100
+293399,University,Colorado State University,No,3,100.00%,No,100
+293405,University,Skidmore College,No,1,100.00%,Yes,100
+293411,University,Rochester Institute of Technology,No,2,100.00%,No,100
+293437,University,Florida State University,I don't use Tinder,1,100.00%,No,100
+293453,University,Loyola University Maryland,No,3,100.00%,Yes,100
+293463,University,James Madison University,Yes,1,100.00%,No,100
+293471,University,Sacred Heart University,No,1,100.00%,No,100
+293481,University,St. Lawrence University,Yes,1,100.00%,Yes,100
+293489,University,Iowa State University,No,1,100.00%,Yes,100
+293525,University,Auburn University,No,1,100.00%,Yes,100
+293531,University,Gonzaga University,No,1,100.00%,No,100
+293543,University,Michigan State University,No,1,100.00%,No,100
+293549,University,Florida International University,No,2,100.00%,No,100
+293557,University,University of Central Florida,I don't use Tinder,1,100.00%,Yes,100
+293561,University,Castleton State College,No,1,100.00%,No,100
+293573,University,Ohio University,No,1,100.00%,Yes,100
+293579,University,Pepperdine University,No,2,100.00%,No,100
+293585,University,Providence College,No,1,100.00%,Yes,100
+293601,University,"University of Wisconsin, Eau Claire",Yes,1,100.00%,Yes,100
+293621,University,Oregon State University,No,1,100.00%,Yes,100
+293627,University,Whatsgoodly University,No,1,100.00%,No,100
+293643,University,"Meridian, Idaho",Yes,1,100.00%,No,100
+293665,University,Morehead State University,I don't use Tinder,1,100.00%,Yes,100
+293693,University,Arkansas State University,No,1,100.00%,Yes,100
+293701,University,"Westport, CT",I don't use Tinder,1,100.00%,No,100
+293709,University,Middlebury College,Yes,1,100.00%,No,100
+293715,University,North Carolina State,Yes,1,100.00%,No,100
+293723,University,University of Kentucky,No,1,100.00%,No,100
+293727,University,Bucknell University,Yes,1,100.00%,No,100
+293737,University,Randolph-Macon College,I don't use Tinder,1,100.00%,No,100
+293739,University,Old Dominion University,Yes,1,100.00%,No,100
+293747,University,University of Tampa,No,1,100.00%,No,100
+293753,University,Roger Williams University,No,1,100.00%,Yes,100
+293763,University,Minnesota State University Mankato,Yes,1,100.00%,No,100
+293771,University,University of Florida,No,1,100.00%,No,100

@@ -21,7 +21,21 @@
     },
     "color": {
       "field": "gender",
-      "type": "nominal"
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Female",
+          "Male"
+        ],
+        "range": [
+          "#DB7093",
+          "#4169E1"
+        ]
+      }
+    },
+    "tooltip": {
+      "field": "gender",
+      "aggregate": "count"
     }
   }
 }
